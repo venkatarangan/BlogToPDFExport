@@ -1,4 +1,4 @@
-# BlogToPDFConverter
+# BlogToPDFExport
 
 ## Overview
 Python script to export the posts in a wordpress blog to PDF files
